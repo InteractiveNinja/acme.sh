@@ -1,6 +1,5 @@
 #!/usr/bin/env sh
 # shellcheck disable=SC2034
-
 dns_cyon_info='cyon.ch
 Site: cyon.ch
 Docs: github.com/acmesh-official/acme.sh/wiki/dnsapi#dns_cyon
